@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ASHWANI ダ MUSIC 」──
+    ──👑⃟🥀ＳＨＩＶ么ＹMUSIC BOT──
 </h2>
 
 <p align="center">
-  <img src="http://telegra.ph/file/da67bb071fac5b01a5c8d.jpg">
+  <img src="https://telegra.ph/file/018fc76a49d9ecdd3af9c.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="http://telegra.ph/file/da67bb071fac5b01a5c8d.jpg">
+  <img src="https://telegra.ph/file/f64c2394d1d25ea322ec0.jpg">
 </p>
 
 <h3 align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/ASHWANIashwani/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/shivayshivay/AnonXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/ASHWANI10"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Hello_papaji"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/chatventure_club"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/the_mastii_hubb"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
